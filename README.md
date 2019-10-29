@@ -4,4 +4,6 @@ uno
 UNO Y MEDIO
 dos
 
-tres
+dos
+
+TRES
