@@ -1,1 +1,1 @@
-<?php \n echo ?Hola editado?;
+<?php \n echo 'Adios';
