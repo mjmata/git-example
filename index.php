@@ -1,1 +1,2 @@
-<?php \n echo 'Adios';
+<?php \n echo ?Hola editado?;
+hola, quiero hacer un merge
